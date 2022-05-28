@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeikar 😝</h1>
-<h3 align="center">A Full Stack Web/Mobile/Game developer who loves developing and challenging.</h3>
+<h3 align="center">A software engineer who loves developing and challenging.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeikar&label=Profile%20views&color=0e75b6&style=flat" alt="zeikar" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://zeikar.github.io/](https://zeikar.github.io/)
 
-- 📄 And also practice competitive programming. [Codeforces](https://codeforces.com/profile/zeikar) / [Atcoder](https://atcoder.jp/users/zeikar)
+- 📄 And also practice competitive programming. [Leetcode](https://leetcode.com/zeikar/) / [Codeforces](https://codeforces.com/profile/zeikar) / [Atcoder](https://atcoder.jp/users/zeikar)
 
 - 📫 How to reach me **zeikar@naver.com**
 
