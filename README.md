@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeikar 😝</h1>
-<h3 align="center">A software engineer who loves developing and challenging.</h3>
+<h3 align="center">A software engineer motivated by learning and innovation, always searching for a better path.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeikar&label=Profile%20views&color=0e75b6&style=flat" alt="zeikar" /> </p>
 
