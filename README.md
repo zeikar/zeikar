@@ -9,6 +9,13 @@
   <a href="https://linkedin.com/in/zeikar">LinkedIn</a>
 </p>
 
+<p align="center">
+  Selected work:
+  <a href="https://zeikar.github.io/projects/charivo/">Charivo</a> ·
+  <a href="https://zeikar.github.io/projects/charaloom/">Charaloom</a> ·
+  <a href="https://zeikar.github.io/projects/commentarium/">Commentarium</a>
+</p>
+
 ---
 
 > A software engineer driven by learning, innovation, and better ways to build.
