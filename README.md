@@ -11,7 +11,10 @@
 
 <p align="center">
   Selected work:
+  <a href="https://zeikar.dev/projects/iki/">Iki</a> ·
+  <a href="https://zeikar.dev/projects/hyperclaude/">hyperclaude</a> ·
+  <a href="https://zeikar.dev/projects/tangent/">tangent</a> ·
   <a href="https://zeikar.dev/projects/charivo/">Charivo</a> ·
-  <a href="https://zeikar.dev/projects/charaloom/">Charaloom</a> ·
-  <a href="https://zeikar.dev/projects/commentarium/">Commentarium</a>
+  <a href="https://zeikar.dev/projects/cimulity/">Cimulity</a> ·
+  <a href="https://zeikar.dev/projects/charaloom/">Charaloom</a>
 </p>
